@@ -576,6 +576,15 @@ easier.
     <style name="TextAppearance.DeviceDefault.Widget.ActionMode.Subtitle" parent="TextAppearance.Holo.Widget.ActionMode.Subtitle" >
 
     </style>
+    <style name="TextAppearance.Holo.Widget.Switch" parent="TextAppearance.Holo.Small">
+        <!-- Switch thumb asset presents a dark background. -->
+        <item name="android:textColor">#00000000</item>
+    </style>
+
+    <style name="TextAppearance.Holo.Light.Widget.Switch" parent="TextAppearance.Holo.Small">
+        <!-- Switch thumb asset presents a dark background. -->
+        <item name="android:textColor">#00000000</item>
+    </style>
     <style name="TextAppearance.DeviceDefault.WindowTitle" parent="TextAppearance.Holo.WindowTitle" >
 
     </style>
