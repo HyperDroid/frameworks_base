@@ -34,10 +34,10 @@
             <shape>
                 <corners android:radius="5dip" />
                 <gradient
-                        android:startColor="#4c09afed"
-                        android:centerColor="#4c09afed"
+                        android:startColor="#4cffffff"
+                        android:centerColor="#4cffffff"
                         android:centerY="0.75"
-                        android:endColor="#4c09afed"
+                        android:endColor="#4cffffff"
                         android:angle="270"
                 />
             </shape>
@@ -49,10 +49,10 @@
             <shape>
                 <corners android:radius="5dip" />
                 <gradient
-                        android:startColor="#ff09afed"
-                        android:centerColor="#ff09afed"
+                        android:startColor="#ffffffff"
+                        android:centerColor="#ffffffff"
                         android:centerY="0.75"
-                        android:endColor="#ff09afed"
+                        android:endColor="#ffffffff"
                         android:angle="270"
                 />
             </shape>
