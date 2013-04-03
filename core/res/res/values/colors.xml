@@ -144,8 +144,8 @@
     <color name="dim_foreground_inverse_holo_light">#bebebe</color>
     <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
     <color name="hint_foreground_holo_light">#808080</color>
-    <color name="highlighted_text_holo_dark">#6633b5e5</color>
-    <color name="highlighted_text_holo_light">#6633b5e5</color>
+    <color name="highlighted_text_holo_dark">#669c9c9c</color>
+    <color name="highlighted_text_holo_light">#669c9c9c</color>
     <color name="link_text_holo_dark">#5c5cff</color>
     <color name="link_text_holo_light">#0000ee</color>
 
@@ -159,21 +159,21 @@
 
     <!-- Highlight colors for the legacy themes -->
     <eat-comment />
-    <color name="legacy_pressed_highlight">#fffeaa0c</color>
-    <color name="legacy_selected_highlight">#fff17a0a</color>
+    <color name="legacy_pressed_highlight">#ffd7d7d7</color>
+    <color name="legacy_selected_highlight">#ffd7d7d7</color>
     <color name="legacy_long_pressed_highlight">#ffffffff</color>
 
     <!-- General purpose colors for Holo-themed elements -->
     <eat-comment />
 
     <!-- A light Holo shade of blue -->
-    <color name="holo_blue_light">#ff33b5e5</color>
+    <color name="holo_blue_light">#ffffffff</color>
     <!-- A light Holo shade of green -->
     <color name="holo_green_light">#ff99cc00</color>
     <!-- A light Holo shade of red -->
     <color name="holo_red_light">#ffff4444</color>
     <!-- A dark Holo shade of blue -->
-    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="holo_blue_dark">#ffffffff</color>
     <!-- A dark Holo shade of green -->
     <color name="holo_green_dark">#ff669900</color>
     <!-- A dark Holo shade of red -->
@@ -185,15 +185,15 @@
     <!-- A dark Holo shade of orange -->
     <color name="holo_orange_dark">#ffff8800</color>
     <!-- A really bright Holo shade of blue -->
-    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_blue_bright">#ffffffff</color>
 
-    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_bg">#339c9c9c</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
 
     <!-- Keyguard colors -->
     <color name="keyguard_avatar_frame_color">#ffffffff</color>
     <color name="keyguard_avatar_frame_shadow_color">#80000000</color>
     <color name="keyguard_avatar_nick_color">#ffffffff</color>
-    <color name="keyguard_avatar_frame_pressed_color">#ff35b5e5</color>
+    <color name="keyguard_avatar_frame_pressed_color">#ff9c9c9c</color>
 </resources>
 
