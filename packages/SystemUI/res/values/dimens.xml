@@ -95,7 +95,7 @@
     <dimen name="status_bar_icon_padding">0dp</dimen>
 
     <!-- half the distance between notifications in the panel -->
-    <dimen name="notification_divider_height">3dp</dimen>
+    <dimen name="notification_divider_height">1dp</dimen>
 
     <!-- Notification drawer tuning parameters (phone UI) -->
     <!-- Initial velocity of the shade when expanding on its own -->
@@ -156,10 +156,10 @@
     <dimen name="close_handle_underlap">32dp</dimen>
 
     <!-- Height of the notification panel header bar -->
-    <dimen name="notification_panel_header_height">40dp</dimen>
+    <dimen name="notification_panel_header_height">42dp</dimen>
 
     <!-- Height of the notification panel brightness slider -->
-    <dimen name="notification_panel_brightness_height">40dp</dimen>
+    <dimen name="notification_panel_brightness_height">42dp</dimen>
 
     <!-- Height of the notification panel widget bar -->
     <dimen name="notification_panel_widget_height">60dp</dimen>
