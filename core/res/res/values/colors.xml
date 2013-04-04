@@ -23,7 +23,7 @@
     <drawable name="status_bar_closed_default_background">#ff000000</drawable>
     <drawable name="status_bar_opened_default_background">#ff000000</drawable>
     <drawable name="notification_item_background_color">#ff111111</drawable>
-    <drawable name="notification_item_background_color_pressed">#ff257390</drawable>
+    <drawable name="notification_item_background_color_pressed">#00000000</drawable>
     <drawable name="search_bar_default_color">#ff000000</drawable>
     <drawable name="safe_mode_background">#60000000</drawable>
     <!-- Background drawable that can be used for a transparent activity to
@@ -167,13 +167,13 @@
     <eat-comment />
 
     <!-- A light Holo shade of blue -->
-    <color name="holo_blue_light">#ffffffff</color>
+    <color name="holo_blue_light">#fff9f9f9</color>
     <!-- A light Holo shade of green -->
     <color name="holo_green_light">#ff99cc00</color>
     <!-- A light Holo shade of red -->
     <color name="holo_red_light">#ffff4444</color>
     <!-- A dark Holo shade of blue -->
-    <color name="holo_blue_dark">#ffffffff</color>
+    <color name="holo_blue_dark">#ffb2b2b2</color>
     <!-- A dark Holo shade of green -->
     <color name="holo_green_dark">#ff669900</color>
     <!-- A dark Holo shade of red -->
