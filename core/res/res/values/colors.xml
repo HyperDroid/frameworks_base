@@ -35,7 +35,7 @@
          a light UI more visible. -->
     <drawable name="screen_background_light_transparent">#80ffffff</drawable>
     <color name="safe_mode_text">#80ffffff</color>
-    <color name="white">#ffffffff</color>
+    <color name="white">#fff9f9f9</color>
     <color name="black">#ff000000</color>
     <color name="transparent">#00000000</color>
     <color name="background_dark">#ff000000</color>
@@ -167,7 +167,7 @@
     <eat-comment />
 
     <!-- A light Holo shade of blue -->
-    <color name="holo_blue_light">#fff9f9f9</color>
+    <color name="holo_blue_light">#ffd7d7d7</color>
     <!-- A light Holo shade of green -->
     <color name="holo_green_light">#ff99cc00</color>
     <!-- A light Holo shade of red -->
@@ -185,7 +185,7 @@
     <!-- A dark Holo shade of orange -->
     <color name="holo_orange_dark">#ffff8800</color>
     <!-- A really bright Holo shade of blue -->
-    <color name="holo_blue_bright">#ffffffff</color>
+    <color name="holo_blue_bright">#ffd7d7d7</color>
 
     <drawable name="notification_template_icon_bg">#339c9c9c</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
